@@ -1,0 +1,46 @@
+.description {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.avatar {
+  width: 220px;
+  height: 220px;
+  padding-top: 30px;
+}
+
+.name {
+  font-weight: 700;
+  font-size: 22px;
+}
+
+.tag {
+  color: darkgrey;
+  font-size: 18px;
+}
+
+.location {
+  color: darkgrey;
+  font-size: 18px;
+}
+
+.stats {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+
+.label {
+  display: block;
+  padding: 10px;
+  color: darkgrey;
+}
+
+.quantity {
+  padding: 10px;
+  font-weight: 700;
+}

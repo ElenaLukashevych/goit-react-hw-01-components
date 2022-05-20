@@ -1,0 +1,20 @@
+.transactionHistory {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 30px;
+}
+
+.title {
+  width: 220px;
+  height: 40px;
+  color: #fff;
+  background-color: #42bff5;
+}
+
+.tableData {
+  width: 220px;
+  height: 40px;
+  text-align: center;
+}
